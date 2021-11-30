@@ -19,6 +19,10 @@ body{
     background-image: url("background/backgroundSpring.png");
 }
 
+.summer {
+    background-image: url("background/backgroundSummer.png");
+}
+
 .autumn{
     background-image: url("background/backgroundAutumn.png");
 }
@@ -46,9 +50,7 @@ h1 {
 
 /* 🍡 UI elements */
 .nav {
-    background-color: #814227;
-    margin-top: 0px;
-    min-height: 3rem;
+    border-radius: 8px;
 }
 
 /* 🧭Navigation bar */
