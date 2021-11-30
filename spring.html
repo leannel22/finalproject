@@ -19,10 +19,26 @@
 
     <!-- onload="load_details()" -->
     <body class="spring">
-        <h1>Seasons in Pittsburgh</h1>
+        <div class="container row justify-content-around">
+            <h1>Seasons in Pittsburgh</h1>
+            <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                <label class="btn btn-secondary active">
+                  <input type="radio" name="options" id="option1" checked> 🌸Spring🌸
+                </label>
+                <label class="btn btn-secondary">
+                  <input type="radio" name="options" id="option2"> ☀️Summer☀️
+                </label>
+                <label class="btn btn-secondary">
+                  <input type="radio" name="options" id="option3"> 🍁Autumn🍁
+                </label>
+                <label class="btn btn-secondary">
+                    <input type="radio" name="options" id="option3"> ❄️Winter❄️
+                </label>
+            </div>
+        </div>
 
         <!-- 🥕Produce Grid🥕 -->
-        <div class="row row-cols-1 row-cols-md-3">
+        <div class="container row row-cols-1 row-cols-md-3">
             <!-- Asparagus -->
             <div class="col mb-4">
                 <div class="card h-100">
@@ -118,7 +134,7 @@
         </div>
 
         <!-- 🏕Activities🏕 --> <!-- 🌸Flowers🌸 -->
-        <div class="row justify-content-around">
+        <div class="row">
             <!-- 🏕Activities🏕 -->
             <div class="col mb-4">
                 <h2>🏕Activities🏕</h2>
