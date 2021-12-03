@@ -1,7 +1,9 @@
 # finalproject
 Seasons in Pittsburgh
 
-# image source
+Animation Library link: https://codepen.io/massiebn/pen/vmkwJ 
+
+# image sources
 All images from Unsplash: https://unsplash.com/
 
 Otherwise listed as follows:
