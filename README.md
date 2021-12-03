@@ -1,7 +1,10 @@
 # finalproject
 Seasons in Pittsburgh
+
 Live website: https://gifted-torvalds-0415a0.netlify.app/index.html 
+
 Link to Repo: https://github.com/leannel22/finalproject 
+
 Animation Library link: https://codepen.io/massiebn/pen/vmkwJ 
 
 # image sources
