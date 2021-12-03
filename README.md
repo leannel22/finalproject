@@ -11,3 +11,15 @@ Otherwise listed as follows:
 * Raccoon Creek State Park Wildflower Reserve: https://www.discovertheburgh.com/raccoon-creek-state-park-wildflower-reserve/
 * Saucer Magnolia: https://pittsburghparks.org/spring-blooms-in-pittsburgh/ 
 * Hepatica: https://pittsburghparks.org/spring-blooms-in-pittsburgh/
+
+# Summer
+* Butterfly Bush: Wikimedia commons
+* Purple Coneflower: Wikimedia commons
+* Picklesburgh: https://www.picklesburgh.com/
+
+# Autumn
+* Fallingwater House: https://www.discovertheburgh.com/fallingwater-house/
+* Oktoberfest: https://www.discoverlehighvalley.com/events/oktoberfest/ 
+
+# Winter
+* Skiing and Snowboarding at Boyce Park: https://www.alleghenycounty.us/parks/activities/winter-sports/skiing-and-snowboarding.aspx

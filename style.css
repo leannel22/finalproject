@@ -19,12 +19,31 @@ body{
     background-image: url("background/backgroundSpring.png");
 }
 
+/* .spring-button {
+    background-color: #b8776d;
+    border-color: #b8776d;
+    Animation color: f5d3ce
+}
+
+.spring-button :hover {
+    background-color: #b8776d;
+    border-color: #b8776d;   
+} */
+
+/* ☀️ Summer ☀️ */
 .summer {
     background-image: url("background/backgroundSummer.png");
 }
+/* Snow color: #aae6ba */
 
+/* 🍁 Autumn 🍁 */
 .autumn{
     background-image: url("background/backgroundAutumn.png");
+}
+
+/* ❄️ Winter ❄️ */
+.winter{
+    background-image: url("background/backgroundWinter.png");
 }
 
 .container {
